@@ -1,6 +1,6 @@
 # BigNumber
 
-This is project is a simple text-based  Stock Exchange System that runs in the console or terminal.
+This project is my own implementation of the BigInteger Java Class
 
 ## Notes
 
