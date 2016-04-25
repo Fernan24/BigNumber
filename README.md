@@ -12,18 +12,11 @@ For the instructions of how to compile and run this project I am going to asume 
 2. Unzip the File.
 3. Open the Terminal or Console 
 4. Navigate to the project directory `cd Desktop/P2_4035_802137210_152`
-
-<<<<<<< HEAD
 5. To Compile`javac -sourcepath src/ src/theSystem/Main.java`
 6. If you get a warning like this: <img src="http://i.imgur.com/02Gc0n0.png" title=“Error” /> you will have to compile again `javac -sourcepath src/ src/theSystem/Main.java -Xlint:unchecked`
 
 7. Run the program `java -classpath src/ theSystem/Main`
-=======
-5. To Compile`javac -sourcepath src/ src/theSystem/MySystem.java`
-6. If you get a warning like this: <img src="http://i.imgur.com/02Gc0n0.png" title=“Error” /> you will have to compile again `javac -sourcepath src/ src/theSystem/MySystem.java -Xlint:unchecked`
 
-7. Run the program `java -classpath src/ theSystem/MySystem`
->>>>>>> c1c8fa2e532aa74ef3aef154f6ab12b37f5c621e
 
 8. The program should be running now.
 
@@ -44,7 +37,6 @@ For the instructions of how to compile and run this project I am going to asume 
 
 ## License
 
-<<<<<<< HEAD
 Copyright 2016 Fernando Rodriguez
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -58,18 +50,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-=======
-    Copyright 2016 Fernando Rodriguez
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-    
-        http://www.apache.org/licenses/LICENSE-2.0
-    
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
->>>>>>> c1c8fa2e532aa74ef3aef154f6ab12b37f5c621e
